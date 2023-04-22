@@ -1,1 +1,1 @@
-# CUDA-assignments
+# CUDA Assignments
